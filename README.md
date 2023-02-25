@@ -30,5 +30,8 @@ git push -uf origin main
     - [State-metric](https://devopscube.com/setup-kube-state-metrics/)
     - [Grafana](https://devopscube.com/setup-grafana-kubernetes/)
 
+-Outputs:
 
 ![alt text](https://github.com/bharath2602/prometheus-grafana-k8s/blob/main/Outputs/Screenshot%202023-02-25%20at%203.15.35%20PM.png?raw=true)
+
+![alt text](https://github.com/bharath2602/prometheus-grafana-k8s/blob/main/Outputs/Screenshot%202023-02-25%20at%203.16.28%20PM.png?raw=true)
